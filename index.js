@@ -1,4 +1,4 @@
-var dodger = document.getElementById('dodger');
+
 
 dodger.style.backgroundColor = "#ff69b4";
 
